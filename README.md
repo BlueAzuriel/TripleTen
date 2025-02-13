@@ -1,2 +1,2 @@
-# TripleTen
+## TripleTen
 My Personal Repository
